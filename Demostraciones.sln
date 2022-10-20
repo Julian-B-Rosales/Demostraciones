@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApp", "WindowsApp\WindowsApp.csproj", "{A9DB0B76-9D3C-440A-8B2F-5BF875E008EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulianRosalesCasting", "JulianRosalesCasting\JulianRosalesCasting.csproj", "{B456CC19-0EBA-411C-9BA1-C01E77D41A52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A9DB0B76-9D3C-440A-8B2F-5BF875E008EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9DB0B76-9D3C-440A-8B2F-5BF875E008EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9DB0B76-9D3C-440A-8B2F-5BF875E008EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B456CC19-0EBA-411C-9BA1-C01E77D41A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B456CC19-0EBA-411C-9BA1-C01E77D41A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B456CC19-0EBA-411C-9BA1-C01E77D41A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B456CC19-0EBA-411C-9BA1-C01E77D41A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
