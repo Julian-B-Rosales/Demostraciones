@@ -1,0 +1,91 @@
+#header, nav, main, footer {
+    margin:auto;
+}
+#header, #left, #contCenter, #right, #bottom{
+    position: relative;
+    margin-left:30px; 
+    margin-top:20px
+}
+
+body{
+    width: 950px;
+    height: 595px;
+}
+header{
+    width: 950px;
+    height: 150px;
+    background-color: rgb(74, 74, 74);
+}
+
+#logo{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(115, 104, 104);
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+nav{
+    width: 950px;
+    height: 35px;
+    background-color: rgb(128, 198, 24);
+    top: 150px;
+}
+main{
+    width: 950px;
+    height: 380px;
+    background-color: rgb(166, 159, 159);
+    position: absolute;
+}
+
+#left{
+    width: 200px;
+    height: 230px;
+    background-color: rgb(131, 122, 122);
+    float: left;
+}
+#contCenter{
+    width: 380px;
+    height: 230px;
+    background-color: rgb(131, 122, 122);
+    float: left;
+}
+#right{
+    width: 250px;
+    height: 230px;
+    background-color: rgb(131, 122, 122);
+    float: right;
+}
+#bottom{
+    width: 890px;
+    height: 90px;
+    background-color: rgb(131, 122, 122);
+    float: left;
+}
+
+#centerL{
+    width: 130px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 4%;
+}
+
+#centerR{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-right: 4%;
+    margin-top: 4%;
+}
+
+
+footer{
+    width: 950px;
+    height: 30px;
+    background-color: rgb(101, 101, 101);
+    position: absolute;
+    top: 565px;
+}
